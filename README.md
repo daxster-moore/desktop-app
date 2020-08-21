@@ -1,1 +1,1 @@
-# banking-app
+# desktop-app
